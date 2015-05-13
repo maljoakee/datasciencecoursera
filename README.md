@@ -1,2 +1,5 @@
-# datasciencecoursera
-A tool kit requirement 
+## datasciencecoursera
+### A tool kit requirement 
+* Fun
+* Easy
+* Educational
